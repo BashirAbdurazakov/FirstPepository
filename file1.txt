@@ -1,5 +1,5 @@
 Hello world!
 123456
 Good bay!
-use ssh
+line from user2
 line from user1
